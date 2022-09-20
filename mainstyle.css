@@ -1,0 +1,61 @@
+.Title {
+
+color: #c50f46;
+text-align: center;
+font-weight: bold;
+font-size: 40px;
+text-decoration: underline;
+
+}
+
+.MainImage
+ {
+
+height:400px;
+width: 775px;
+ display: block;
+ margin-right: auto;
+ margin-left: auto;
+
+}
+
+body {
+    background-color: rgb(236, 190, 190);
+}
+
+
+
+.Make {
+
+    text-align: center;
+    font-size: 35px;
+    color: #c50f46;
+    ;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+}
+
+#recipes { 
+
+font-size: 20px;
+
+
+}
+
+.Jambalaya {
+
+    text-align: center;
+    color: #c50f46;
+    
+}
+
+.Custard {
+
+    text-align: right;
+    color: #c50f46;
+}
+
+.Agedashi {
+
+    text-align: left;
+    color: #c50f46;
+}
